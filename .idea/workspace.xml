@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e4e8151-0ffb-4989-9f85-6b57b9becd21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dummy-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navigation/MealNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/CategoriesScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/CategoryMealScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/FavoritesScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/FiltersScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/MealDetailsScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nDTfXR00nILkiawVy1ysXQVvOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e4e8151-0ffb-4989-9f85-6b57b9becd21" name="Default Changelist" comment="" />
+      <created>1610923764762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610923764762</updated>
+      <workItem from="1610923766035" duration="112000" />
+      <workItem from="1610923929456" duration="67000" />
+      <workItem from="1610924116067" duration="11722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="281" key="GridCell.Tab.0.bottom" timestamp="1611184958752">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611184958752" />
+    <state width="1659" height="281" key="GridCell.Tab.0.center" timestamp="1611184958749">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611184958749" />
+    <state width="1659" height="281" key="GridCell.Tab.0.left" timestamp="1611184958744">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611184958744" />
+    <state width="1659" height="281" key="GridCell.Tab.0.right" timestamp="1611184958751">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611184958751" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1611619220043">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611619220043" />
+  </component>
+</project>
